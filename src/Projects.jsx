@@ -7,9 +7,9 @@ const projects = [
     link: '#',
   },
   {
-    title: 'Photo Graphic',
+    title: 'Mein Profilbild',
     description: 'Photo Gragic website built with React.',
-    link: '#',
+    link: 'https://meinprofilbild-react-clone.vercel.app/',
   },
   {
     title: 'Weather app',
