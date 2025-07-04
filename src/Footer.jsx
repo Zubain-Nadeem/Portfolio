@@ -9,6 +9,8 @@ const Footer = () => (
       <div className="flex justify-center gap-6">
         <a href="https://github.com/zubain-nadeem" target="_blank" rel="noopener noreferrer" className="hover:text-blue-700 text-3xl transition-colors" title="GitHub"><FaGithub /></a>
         <a href="https://www.linkedin.com/in/zubain-nadeem-5b67852b2/" target="_blank" rel="noopener noreferrer" className="hover:text-blue-700 text-3xl transition-colors" title="LinkedIn"><FaLinkedin /></a>
+        <p>Email me : zubainali678@gmail.com</p>
+
       </div>
     </div>
     <div className="font-medium">&copy; {new Date().getFullYear()} Zubain Nadeem. All rights reserved.</div>
