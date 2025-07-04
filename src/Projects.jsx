@@ -1,21 +1,22 @@
 import React from 'react';
 
 const projects = [
-  {
-    title: 'Green Protocol ',
-    description: 'My First React website to Test my skills .',
-    link: '#',
-  },
-  {
-    title: 'Mein Profilbild',
-    description: 'Photo Gragic website built with React.',
-    link: 'https://meinprofilbild-react-clone.vercel.app/',
-  },
-  {
-    title: 'Weather app',
-    description: 'Make Weather App by using Javascript',
-    link: '#',
-  },
+ {
+  title: 'Green Protocol',
+  description: 'A simple React-based website created to test and demonstrate my frontend development skills using React.',
+  link: 'https://my-first-react-project-omega-three.vercel.app/',
+},
+{
+  title: 'Mein Profilbild',
+  description: 'A photo gallery-style website built with React, inspired by modern graphic design principles.',
+  link: 'https://meinprofilbild-react-clone.vercel.app/',
+},
+{
+  title: 'Weather App',
+  description: 'A dynamic weather application built with JavaScript that displays real-time weather data.',
+  link: 'https://20-java-script-challenges.vercel.app/',
+}
+
 ];
 
 const Projects = () => (
