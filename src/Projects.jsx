@@ -5,7 +5,7 @@ const projects = [
     title: 'Green Protocol Landing',
     description: 'A single-page React + Tailwind landing page for a fictional eco-blockchain startup. Fully responsive layout with clean UI and fast performance.',
     live: 'https://my-first-react-project-omega-three.vercel.app/',
-    code: 'https://github.com/Zubain-Nadeem/Green-Protocol', 
+    code: 'https://github.com/Zubain-Nadeem/Green-Protocol',
   },
   {
     title: 'Mein Profilbild Clone',
@@ -18,6 +18,13 @@ const projects = [
     description: 'Responsive weather app using live API data — shows real-time conditions for any city.',
     live: 'https://20-java-script-challenges.vercel.app/',
     code: 'https://github.com/Zubain-Nadeem/20-JavaScript-Challenges/tree/main/Level-04-Weatherapp',
+  }
+  ,
+  {
+    title: 'SaaS Flow – Modern Landing Page',
+    description: 'A clean and responsive SaaS landing page built with React and Tailwind CSS. Includes CTA-driven layout, pricing plans, features, and testimonials — ideal for showcasing modern web products.',
+    live: 'https://saas-flow.vercel.app/',
+    code: 'https://github.com/Zubain-Nadeem/SaasFlow',
   }
 ];
 
