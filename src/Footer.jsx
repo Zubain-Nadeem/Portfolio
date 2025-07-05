@@ -1,6 +1,8 @@
 import React from 'react';
 import { FaGithub } from "react-icons/fa";
 import { FaLinkedin } from "react-icons/fa";
+import { FaSquareXTwitter } from "react-icons/fa6";
+
 
 const Footer = () => (
   <footer id='contact' className="w-full py-8 bg-white/80 text-center text-gray-700 mt-8 rounded-t-xl shadow-inner">
@@ -9,7 +11,10 @@ const Footer = () => (
       <div className="flex justify-center gap-6">
         <a href="https://github.com/zubain-nadeem" target="_blank" rel="noopener noreferrer" className="hover:text-blue-700 text-3xl transition-colors" title="GitHub"><FaGithub /></a>
         <a href="https://www.linkedin.com/in/zubain-nadeem-5b67852b2/" target="_blank" rel="noopener noreferrer" className="hover:text-blue-700 text-3xl transition-colors" title="LinkedIn"><FaLinkedin /></a>
-        <p>Email me : zubainali678@gmail.com</p>
+        <a href="https://x.com/theZubain" target="_blank" rel="noopener noreferrer" className="hover:text-blue-700 text-3xl transition-colors" title="LinkedIn"><FaSquareXTwitter /></a>
+        <a href="mailto:zubainali678@gmail.com" className="hover:text-blue-700 transition-colors text-lg font-medium" title="Email">
+          Email me: zubainali678@gmail.com
+        </a>
 
       </div>
     </div>

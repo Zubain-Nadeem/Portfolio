@@ -15,7 +15,7 @@ const projects = [
   },
   {
     title: 'WeatherNow App',
-    description: 'A JavaScript weather app that fetches live weather data using OpenWeatherMap API. Supports location-based lookup and unit toggle.',
+    description: 'Responsive weather app using live API data — shows real-time conditions for any city.',
     live: 'https://20-java-script-challenges.vercel.app/',
     code: 'https://github.com/Zubain-Nadeem/20-JavaScript-Challenges/tree/main/Level-04-Weatherapp',
   }
