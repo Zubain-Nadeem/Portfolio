@@ -8,8 +8,7 @@ const Hero = () => (
       </div>
     </div>
     <h1 className="text-5xl md:text-6xl font-extrabold text-blue-800 mb-4 drop-shadow">Hi, I'm Zubain</h1>
-    <p className="text-medium md:text-xl text-gray-700 mb-8 font-medium">I build fast, responsive React & Tailwind landing pages
-for founders, coaches, and small startups.Need a clean one-page site to launch your idea fast? Let’s work together.</p>
+    <p className="text-medium md:text-xl text-gray-700 mb-8 font-medium">I build clean, fast, responsive websites using React and Tailwind.</p>
     <a href="#projects" className="inline-block bg-gradient-to-r from-blue-600 to-blue-400 text-white px-8 py-3 rounded-full font-semibold shadow-lg hover:scale-105 hover:from-blue-700 hover:to-blue-500 transition-transform duration-200">View My Work</a>
   </section>
 );
