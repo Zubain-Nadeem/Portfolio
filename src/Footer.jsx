@@ -2,6 +2,7 @@ import React from 'react';
 import { FaGithub } from "react-icons/fa";
 import { FaLinkedin } from "react-icons/fa";
 import { FaSquareXTwitter } from "react-icons/fa6";
+import { IoMail } from "react-icons/io5";
 
 
 const Footer = () => (
@@ -13,7 +14,7 @@ const Footer = () => (
         <a href="https://www.linkedin.com/in/zubain-nadeem-5b67852b2/" target="_blank" rel="noopener noreferrer" className="hover:text-blue-700 text-3xl transition-colors" title="LinkedIn"><FaLinkedin /></a>
         <a href="https://x.com/theZubain" target="_blank" rel="noopener noreferrer" className="hover:text-blue-700 text-3xl transition-colors" title="LinkedIn"><FaSquareXTwitter /></a>
         <a href="mailto:zubainali678@gmail.com" className="hover:text-blue-700 transition-colors text-lg font-medium" title="Email">
-          Email me: zubainali678@gmail.com
+          <IoMail />
         </a>
 
       </div>
